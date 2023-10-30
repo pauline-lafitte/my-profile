@@ -51,7 +51,6 @@ body {
   .topnav a, .topnav-right {
     float: none;
     display: block;
-    border-radius: 70px;
   }
   
   .topnav-centered a {
